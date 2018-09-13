@@ -1,0 +1,11 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <email>test@gmail.com</email>
+      <name>Richard Whitney</name>
+      <address>Stoneyford</address>
+      <gender>M</gender>
+      <speciality>Cardio</speciality>
+    </Trainer>
+  </list>
+</object-stream>

@@ -1,0 +1,124 @@
+<object-stream>
+  <list>
+    <PremiumMember>
+      <email>test1@gmail.com</email>
+      <name>Andy Whitney</name>
+      <address>Stoneyford</address>
+      <gender>M</gender>
+      <height>1.7</height>
+      <startWeight>68.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentHashMap>
+        <entry>
+          <string>18/05/16</string>
+          <Assessment>
+            <weight>66.0</weight>
+            <thigh>16.0</thigh>
+            <waist>35.0</waist>
+            <comment>Keep going</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>18/05/12</string>
+          <Assessment>
+            <weight>60.0</weight>
+            <thigh>12.0</thigh>
+            <waist>32.0</waist>
+            <comment>Good work</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>18/05/20</string>
+          <Assessment>
+            <weight>64.0</weight>
+            <thigh>12.0</thigh>
+            <waist>35.0</waist>
+            <comment>Lets go</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>18/05/19</string>
+          <Assessment>
+            <weight>64.0</weight>
+            <thigh>12.0</thigh>
+            <waist>33.0</waist>
+            <comment>Keep going</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>18/05/18</string>
+          <Assessment>
+            <weight>65.0</weight>
+            <thigh>12.0</thigh>
+            <waist>32.0</waist>
+            <comment>good work</comment>
+          </Assessment>
+        </entry>
+      </assessmentHashMap>
+    </PremiumMember>
+    <PremiumMember>
+      <email>test2@gmail.com</email>
+      <name>Jenny Whitney</name>
+      <address>Stoneyford</address>
+      <gender>F</gender>
+      <height>1.6</height>
+      <startWeight>50.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+      <assessmentHashMap>
+        <entry>
+          <string>18/05/16</string>
+          <Assessment>
+            <weight>60.0</weight>
+            <thigh>13.0</thigh>
+            <waist>30.0</waist>
+            <comment>Well done</comment>
+          </Assessment>
+        </entry>
+      </assessmentHashMap>
+    </PremiumMember>
+    <PremiumMember>
+      <email>test3@gmail.com</email>
+      <name>Homer Simpson</name>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <height>1.8</height>
+      <startWeight>100.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessmentHashMap>
+        <entry>
+          <string>18/05/16</string>
+          <Assessment>
+            <weight>110.0</weight>
+            <thigh>20.0</thigh>
+            <waist>46.0</waist>
+            <comment>Must try harder</comment>
+          </Assessment>
+        </entry>
+      </assessmentHashMap>
+    </PremiumMember>
+    <StudentMember>
+      <email>test4@gmail.com</email>
+      <name>Lisa Simpson</name>
+      <address>Springfield</address>
+      <gender>F</gender>
+      <height>1.55</height>
+      <startWeight>45.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessmentHashMap/>
+      <studentid>1234567</studentid>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <StudentMember>
+      <email>test5@gmail.com</email>
+      <name>Bart Simpson</name>
+      <address>Springfield</address>
+      <gender>M</gender>
+      <height>1.6</height>
+      <startWeight>55.0</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <assessmentHashMap/>
+      <studentid>12345678</studentid>
+      <collegeName>DCU</collegeName>
+    </StudentMember>
+  </list>
+</object-stream>
